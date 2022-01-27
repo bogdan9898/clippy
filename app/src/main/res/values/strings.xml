@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clippy</string>
+    <string name="clear_clipboard">Clear Clipboard</string>
+</resources>
